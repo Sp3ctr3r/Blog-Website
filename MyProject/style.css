@@ -47,7 +47,7 @@
 }
 .jumbotron{
     background-image: url("./img/3.jpg");
-    background-size: cover; /*resmi sığdırmaya çalıştırır bu kod */
+    background-size: cover;
     background-position: 50% 30%;
     border-radius: 9px;
    
